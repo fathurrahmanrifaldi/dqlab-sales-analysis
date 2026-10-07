@@ -2,7 +2,7 @@
 
 Analisis data penjualan DQLab Store untuk menjawab: **bagaimana mengalokasikan ulang resource ke kategori yang profitable dan mengoptimalkan strategi diskon untuk memaksimalkan profit?** Seluruh analisis dikerjakan di **Microsoft Excel** dengan formula hidup (SUMIFS, COUNTIFS, AVERAGEIFS, SUMPRODUCT, INDEX/MATCH), bukan angka hasil hardcode.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Ringkasan Temuan
 
